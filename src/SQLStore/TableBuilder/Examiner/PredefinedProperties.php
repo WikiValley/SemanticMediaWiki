@@ -141,7 +141,7 @@ class PredefinedProperties {
 
 		$connection->replace(
 			SQLStore::ID_TABLE,
-			[ 'smw_id' ],
+			[ [ 'smw_id' ] ],
 			[
 				'smw_id' => $id,
 				'smw_title' => $property->getKey(),

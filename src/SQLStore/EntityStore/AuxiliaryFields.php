@@ -118,7 +118,7 @@ class AuxiliaryFields {
 			SQLStore::ID_AUXILIARY_TABLE,
 			$rows,
 			[
-				'smw_id'
+				[ 'smw_id' ]
 			],
 			$rows,
 			__METHOD__
