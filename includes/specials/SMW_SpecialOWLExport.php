@@ -23,6 +23,7 @@ class SMWSpecialOWLExport extends SpecialPage {
 	}
 
 	public function execute( $page ) {
+		$this->getOutput()->getRequest()->response()->header( 'Cache-Control: private, max-age=0, s-maxage=0, must-revalidate' );
 		$this->setHeaders();
 		global $wgOut, $wgRequest;
 
