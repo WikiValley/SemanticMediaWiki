@@ -2,5 +2,6 @@
 	"@metadata": {
 		"authors": []
 	},
-	"smw-livepreview-loading": "Cargando..."
+	"smw-livepreview-loading": "Cargando...",
+	"smw-listingcontinuesabbrev": "cont."
 }

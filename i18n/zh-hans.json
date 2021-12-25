@@ -861,5 +861,6 @@
 	"smw-ask-tab-code": "代码",
 	"smw-pendingtasks-tab-setup": "安装",
 	"smw-pendingtasks-setup-tasks": "任务",
-	"smw-es-replication-error-suggestions-no-connection": "建议您联系维基管理员以提交此次“无法连接”问题报告。"
+	"smw-es-replication-error-suggestions-no-connection": "建议您联系维基管理员以提交此次“无法连接”问题报告。",
+	"smw-listingcontinuesabbrev": "续"
 }

@@ -19,5 +19,6 @@
 	"smw_printername_dsv": "Eksport DSV",
 	"browse": "Shfletoni wiki",
 	"smw-admin-bugsreport": "Bugs mund të raportohen në<a href=\"https://github.com/SemanticMediaWiki/SemanticMediaWiki/issues\">GitHub</a>.",
-	"smw-livepreview-loading": "Duke punuar…"
+	"smw-livepreview-loading": "Duke punuar…",
+	"smw-listingcontinuesabbrev": "vazh."
 }

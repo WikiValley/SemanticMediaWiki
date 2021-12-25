@@ -226,5 +226,6 @@
 	"smw-parser-invalid-json-format": "L’analisador JSON a tornat un « $1 ».",
 	"smw-property-preferred-title-format": "$1 ($2)",
 	"smw-parse": "$1",
-	"smw-no-data-available": "Cap de donada pas disponibla."
+	"smw-no-data-available": "Cap de donada pas disponibla.",
+	"smw-listingcontinuesabbrev": "(seguida)"
 }
